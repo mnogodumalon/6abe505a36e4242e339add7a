@@ -1,0 +1,33 @@
+{
+  "pages": {
+    "en": {
+      "Alle Bestände über dem Minimum — Lager gut versorgt.": "All stock levels above minimum — inventory well supplied.",
+      "Artikel": "Item",
+      "Artikel hinzufügen": "Add Item",
+      "Artikel nach Kategorie": "Items by Category",
+      "Artikel nach Zustand": "Items by Condition",
+      "Artikel prüfen": "Review Items",
+      "Bearbeiten": "Edit",
+      "Bestand": "Stock",
+      "Defekt": "Defective",
+      "Ersten Artikel aufnehmen": "Add First Item",
+      "Kategorie": "Category",
+      "Keine Artikel gefunden.": "No items found.",
+      "Lagerort": "Storage Location",
+      "Menge": "Quantity",
+      "Neuer Artikel": "New Item",
+      "Noch keine Artikel erfasst — leg jetzt los.": "No items recorded yet — get started now.",
+      "Noch keine Artikel im Inventar.": "No items in inventory yet.",
+      "Preis": "Price",
+      "Richte dein Werkstatt-Inventar ein.": "Set up your workshop inventory.",
+      "Unbekannter Artikel": "Unknown Item",
+      "Unter Mindestbestand": "Below Minimum Stock",
+      "Zustand": "Condition",
+      "als defekt markiert — bitte prüfen und ggf. austauschen.": "marked as defective — please inspect and replace if necessary.",
+      "{0} Artikel in {1} Kategorien — alles im grünen Bereich.": "{0} items in {1} categories — all in the green.",
+      "{0} Artikel unter Mindestbestand — bitte nachbestellen.": "{0} items below minimum stock — please reorder.",
+      "{0} als defekt markiert.": "{0} marked as defective."
+    }
+  },
+  "v": 1
+}

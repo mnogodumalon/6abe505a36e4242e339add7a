@@ -1,0 +1,21 @@
+{
+  "KategorienDialog.tsx": {
+    "kategoriename": "z. B. Elektrowerkzeuge",
+    "beschreibung": "Zweck, typische Artikel in dieser Kategorie..."
+  },
+  "InventarDialog.tsx": {
+    "artikelname": "z. B. Bohrmaschine DeWalt",
+    "artikelnummer": "z. B. DCD-885-C2",
+    "seriennummer": "z. B. 12345ABC",
+    "kategorie": "Kategorie wählen",
+    "menge": "z. B. 3",
+    "einheit": "z. B. Stück, Liter",
+    "mindestbestand": "z. B. 1",
+    "lagerort": "z. B. Regal A2-3",
+    "anschaffungsdatum": "Wann angeschafft?",
+    "anschaffungspreis": "z. B. 125,50",
+    "lieferant": "z. B. Müller GmbH",
+    "bemerkungen": "Besonderheiten, Wartung, Schäden...",
+    "zustand": "z. B. Gut, Defekt"
+  }
+}

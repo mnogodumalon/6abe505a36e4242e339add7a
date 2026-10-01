@@ -1,0 +1,15 @@
+{
+  "entities": {
+    "Kategorien": {
+      "placeholders_set": 2,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten-Entity mit nur zwei String-Feldern (Name, Beschreibung). Keine Number-Felder, keine Datumspaare, keine Applookups mit Preis-Targets. Keine Berechnung möglich."
+    },
+    "Inventar": {
+      "placeholders_set": 13,
+      "defaults_keys": ["anschaffungsdatum", "zustand"],
+      "computed_keys": [],
+      "reason": "Stammdaten für Lager-Artikel. Zwar existieren Number-Felder (menge, mindestbestand, anschaffungspreis), aber kein sinnvolles Berechnungs-Szenario: Applookup auf Kategorien hat keine numeric_fields; Bestandswert (Menge × Anschaffungspreis) ist historisch irreführend. fieldOrder sortiert Identifizierer zuerst (Artikel-Name/Nummer/Seriennummer), Kategorisierung (Kategorie, Menge/Einheit, Zustand), dann Lagerung und Beschaffung; lange Bemerkungen am Ende."
+  }
+}
